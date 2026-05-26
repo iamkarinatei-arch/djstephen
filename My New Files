@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6aa45abb.css",
+    "main.js": "/static/js/main.b275064a.js",
+    "index.html": "/index.html",
+    "main.6aa45abb.css.map": "/static/css/main.6aa45abb.css.map",
+    "main.b275064a.js.map": "/static/js/main.b275064a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6aa45abb.css",
+    "static/js/main.b275064a.js"
+  ]
+}
+<!doctype html><html lang="en"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><meta name="theme-color" content="#0a0606"/><meta name="description" content="Book DJ Stephen for weddings, parties, and events in Calgary. Premium sound, curated setlists, and a 5.0-star Google rating. Call (587) 201-9664."/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/><title>DJ Stephen | Professional DJ Services in Calgary</title><script>window.addEventListener("error",function(e){e.error instanceof DOMException&&"DataCloneError"===e.error.name&&e.message&&e.message.includes("PerformanceServerTiming")&&(e.stopImmediatePropagation(),e.preventDefault())},!0)</script><script defer="defer" src="/static/js/main.b275064a.js"></script><link href="/static/css/main.6aa45abb.css" rel="stylesheet"></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id="root"></div></body></html>
